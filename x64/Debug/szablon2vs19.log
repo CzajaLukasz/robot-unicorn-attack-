@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(101,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(101,64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(104,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(104,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(129,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(129,64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(142,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(142,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(312,12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(526,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(527,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(553,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(555,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(575,15): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(552,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\main.cpp(554,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  szablon2vs19.vcxproj -> C:\Users\luka-\OneDrive\Pulpit\template-project-2 - Copy\x64\Debug\szablon2vs19.exe
